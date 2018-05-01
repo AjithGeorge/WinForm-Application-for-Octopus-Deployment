@@ -1,0 +1,16 @@
+﻿    {
+      "ProjectId": "Projects-##",
+      "ChannelId": "Channels-###",
+      "SelectedPackages": [
+        {
+          "ActionName": "StepName#######",
+          "Version": "BuildVersion PR-#####"
+        },
+        {
+          "ActionName": "StepName#######",
+          "Version": "BuildVersion PR-#####"
+        }
+
+      ],
+      "Version": "Version##-V1"
+    }

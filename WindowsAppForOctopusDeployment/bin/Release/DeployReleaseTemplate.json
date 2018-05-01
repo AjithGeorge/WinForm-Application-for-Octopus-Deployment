@@ -1,0 +1,12 @@
+﻿{ 
+  "ReleaseId": "",
+  "EnvironmentId": "",
+  "ProjectId": "Projects-#",
+  "ChannelId": "",
+  "UseGuidedFailure": true,
+  "FormValues": {
+    "290d3b75-9591-faa9-13c3-14c06ff0bed5": true,
+    "9834a393-a509-8cde-68cb-affb5cae972e": true,
+    "f910eadf-b6e3-25ff-a9b4-24ae30a2e502": "none"
+  }
+}
