@@ -43,7 +43,8 @@ namespace WindowsAppForOctopusDeployment
                 APIKey = txtboxPassword.Text;
             }
 
-            //Haradcoding the Step Names and Values to be skipped [These steps hardly changes, so hardcoding is not an issue and will add to improved performance as it require NO dynamic fetching of step details]
+            //Haradcoding the Step Names and Values to be skipped 
+            //[These steps hardly changes, so hardcoding is not an issue and will add to improved performance as it require NO dynamic fetching of step details]
             checkedListBox1.DisplayMember = "StepName";
             checkedListBox1.ValueMember = "Value";
             checkedListBox1.Items.Insert(0, new SkipItems { StepName = "1.Step1###", RealValue = "Value for the step" });
